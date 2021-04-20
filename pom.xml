@@ -13,6 +13,10 @@
 
     <modules>
         <module>peachmall-product</module>
+        <module>peachmall-ware</module>
+        <module>peachmall-order</module>
+        <module>peachmall-member</module>
+        <module>peachmall-coupon</module>
     </modules>
 
 </project>
